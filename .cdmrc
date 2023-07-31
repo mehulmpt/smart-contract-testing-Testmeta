@@ -1,0 +1,2 @@
+tabs: ['contracts/MetaCoin.sol']
+terminals: ['yarn install']
